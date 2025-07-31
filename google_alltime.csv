@@ -10,7 +10,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1007,Minimum Domino Rotations For Equal Row,50.0%,Medium,5.347574519736722, https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
 843,Guess the Word,46.1%,Hard,5.215253774465763, https://leetcode.com/problems/guess-the-word
 288,Unique Word Abbreviation,21.9%,Medium,5.0829330291948045, https://leetcode.com/problems/unique-word-abbreviation
-489,Robot Room Cleaner,69.7%,Hard,4.950612283923846, https://leetcode.com/problems/robot-room-cleaner
+489,Robot Room Cleaner,69.7%,Hard - Premium,4.950612283923846, https://leetcode.com/problems/robot-room-cleaner
 399,Evaluate Division,51.6%,Medium,4.9331279496887595, https://leetcode.com/problems/evaluate-division
 975,Odd Even Jump,42.2%,Hard,4.89330238409204, https://leetcode.com/problems/odd-even-jump
 686,Repeated String Match,32.3%,Easy,4.836325284003677, https://leetcode.com/problems/repeated-string-match
